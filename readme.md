@@ -1,7 +1,7 @@
 # stealing ur feelings
 
 ![Stealing Ur Feelings](https://github.com/noahlevenson/stealing-ur-feelings/blob/master/suf_gif_04192019.gif)
-
+Hi there...
 # :compass: Table of contents
 * [What is *Stealing Ur Feelings?*](#question-what-is-stealing-ur-feelings)
 * [Press and recognition](#newspaper-press-and-recognition)
