@@ -1,19 +1,12 @@
 # stealing ur feelings
 
-![Stealing Ur Feelings](https://github.com/noahlevenson/stealing-ur-feelings/blob/master/suf_gif_04192019.gif)
 Hi there...
 # :compass: Table of contents
-* [What is *Stealing Ur Feelings?*](#question-what-is-stealing-ur-feelings)
-* [Press and recognition](#newspaper-press-and-recognition)
-* [Festival and exhibiton history](#movie_camera-festival-and-exhibition-history)
-* [Tech notes](#eyes-tech-notes)
-* [Archive](#floppy_disk-archive)
-* [Changelog](#zap-changelog)
+
 
 ### :question: What is *Stealing Ur Feelings?*
 [https://stealingurfeelin.gs](https://stealingurfeelin.gs) :arrow_left: :arrow_left: :arrow_left: 
 
-Meet the new AI that knows you better than you know yourself.
 
 [*Stealing Ur Feelings*](https://stealingurfeelin.gs) is a deep learning-powered AR experience which analyzes your facial reactions to reveal the dangers of Big Tech's emotional surveillance programs. Using the AI techniques described in corporate patents, [*Stealing Ur Feelings*](https://stealingurfeelin.gs) learns your deepest secrets just by analyzing your face.
 
